@@ -21,6 +21,10 @@ const Header = () =>
               <li className="nav-item">
                 <Link className="nav-link active" to="/contact">Contact Us</Link>
               </li>
+
+              <li className="nav-item">
+                <Link className="nav-link active" to="/birthday">HBD</Link>
+              </li>
       
             </ul>
             
